@@ -1,0 +1,92 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.6",
+  "deps": {
+    "nx": "18.0.6"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "evaluation-application": [
+        {
+          "file": ".gitignore",
+          "hash": "11612638887042922903"
+        },
+        {
+          "file": "nx.json",
+          "hash": "3237779715147911900"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "15705385112855049373"
+        },
+        {
+          "file": "package.json",
+          "hash": "15047276568753400340"
+        },
+        {
+          "file": "api/src/app.controller.ts",
+          "hash": "4552329938751326480"
+        },
+        {
+          "file": "api/src/app.service.ts",
+          "hash": "16892833931858030153"
+        },
+        {
+          "file": "api/test/app.e2e-spec.ts",
+          "hash": "15142680097789702029"
+        },
+        {
+          "file": "api/README.md",
+          "hash": "88028313855074524"
+        },
+        {
+          "file": "api/nest-cli.json",
+          "hash": "5274966848722555650"
+        },
+        {
+          "file": "api/package.json",
+          "hash": "6601030833134821190"
+        },
+        {
+          "file": "api/src/app.module.ts",
+          "hash": "11673476679848632172"
+        },
+        {
+          "file": "api/.eslintrc.js",
+          "hash": "14709901305311923861"
+        },
+        {
+          "file": "api/.prettierrc",
+          "hash": "4808572120966128913"
+        },
+        {
+          "file": "api/src/main.ts",
+          "hash": "16836780892212170881"
+        },
+        {
+          "file": "api/tsconfig.json",
+          "hash": "5073866550243764688"
+        },
+        {
+          "file": "api/test/jest-e2e.json",
+          "hash": "7570273541430074424"
+        },
+        {
+          "file": "api/tsconfig.build.json",
+          "hash": "276845246908739715"
+        },
+        {
+          "file": "api/src/app.controller.spec.ts",
+          "hash": "2727664763654384995"
+        },
+        {
+          "file": "api/pnpm-lock.yaml",
+          "hash": "11232659542221108002"
+        }
+      ]
+    }
+  }
+}

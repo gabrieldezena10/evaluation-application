@@ -1,0 +1,19 @@
+{
+  "name": "evaluation-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nx exec -- npm run _test -- ",
+    "_test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "18.0.6"
+  },
+  "nx": {
+    "targets": {}
+  }
+}

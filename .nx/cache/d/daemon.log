@@ -1,0 +1,55 @@
+[NX Daemon Server] - 2024-03-03T23:46:55.619Z - Started listening on: /tmp/cc916a046890f5b6116b/d.sock
+[NX Daemon Server] - 2024-03-03T23:46:55.621Z - [WATCHER]: Subscribed to changes within: /home/gabriel/Área de Trabalho/evaluation-application (native)
+[NX Daemon Server] - 2024-03-03T23:46:55.624Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T23:46:55.626Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T23:46:55.629Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T23:46:55.630Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T23:46:55.630Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T23:46:55.630Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T23:46:55.669Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T23:46:55.670Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T23:46:55.670Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 40. Response time: 1.
+[NX Daemon Server] - 2024-03-03T23:46:55.670Z - Time taken for 'total for creating and serializing project graph' 40.11924199992791ms
+[NX Daemon Server] - 2024-03-03T23:46:55.670Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T23:46:55.673Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T23:46:55.674Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-03-03T23:46:55.674Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-03T23:46:55.675Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T23:46:55.677Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T23:46:55.678Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-03-03T23:46:55.678Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T23:50:00.422Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T23:50:00.423Z - [WATCHER]: 14 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-03-03T23:50:00.524Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T23:50:00.524Z - [REQUEST]: api/.eslintrc.js,api/src/app.service.ts,api/tsconfig.build.json,api/src/main.ts,api/src/app.controller.ts,api/src/app.controller.spec.ts,api/src/app.module.ts,api/test/app.e2e-spec.ts,api/.prettierrc,api/test/jest-e2e.json,api/README.md,api/nest-cli.json,api/package.json,api/tsconfig.json
+[NX Daemon Server] - 2024-03-03T23:50:00.525Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T23:50:00.534Z - Time taken for 'hash changed files from watcher' 0.35196200013160706ms
+[NX Daemon Server] - 2024-03-03T23:50:00.925Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-03T23:50:00.925Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-03T23:50:00.925Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-03T23:50:00.925Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-03-03T23:50:00.925Z - Time taken for 'total for creating and serializing project graph' 0.16850900021381676ms
+[NX Daemon Server] - 2024-03-03T23:50:00.926Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T23:50:00.926Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T23:50:00.927Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-03T23:50:00.927Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-03T23:50:00.927Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-03T23:50:00.928Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-03T23:50:00.928Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-03-03T23:50:04.540Z - [WATCHER]: api/_tmp_13041_29fe9230ae1e0778e0a86c582341e1a6 was deleted
+[NX Daemon Server] - 2024-03-03T23:50:04.540Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T23:50:04.640Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T23:50:04.640Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-03T23:50:04.640Z - [REQUEST]: api/_tmp_13041_29fe9230ae1e0778e0a86c582341e1a6
+[NX Daemon Server] - 2024-03-03T23:50:04.647Z - Time taken for 'hash changed files from watcher' 0.04286399995908141ms
+[NX Daemon Server] - 2024-03-03T23:50:17.707Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-03-03T23:50:17.707Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T23:50:17.807Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-03T23:50:17.808Z - [REQUEST]: api/pnpm-lock.yaml
+[NX Daemon Server] - 2024-03-03T23:50:17.808Z - [REQUEST]: api/pnpm-lock.yaml.2498175684
+[NX Daemon Server] - 2024-03-03T23:50:17.821Z - [WATCHER]: api/.gitignore was created or restored
+[NX Daemon Server] - 2024-03-03T23:50:17.821Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-03T23:50:17.821Z - Time taken for 'hash changed files from watcher' 0.2649819999933243ms
+[NX Daemon Server] - 2024-03-03T23:50:17.822Z - [WATCHER]: Stopping the watcher for /home/gabriel/Área de Trabalho/evaluation-application (sources)
+[NX Daemon Server] - 2024-03-03T23:50:17.822Z - [WATCHER]: Stopping the watcher for /home/gabriel/Área de Trabalho/evaluation-application (outputs)
+[NX Daemon Server] - 2024-03-03T23:50:17.822Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
